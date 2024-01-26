@@ -23,7 +23,8 @@ Bu React uygulaması, JSON Server kullanarak yerel bir sunucuyla etkileşimde bu
 1. React.js
 2. Axios
 3. JSON-Server
-4. Bootstrap
+4. UUID
+5. Bootstrap
 
 ## Ekran Gifi
 
