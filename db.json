@@ -1,0 +1,82 @@
+{
+  "todos": [
+    {
+      "id": "32876af3-d24e-4e80-a2e9-f30d67219385",
+      "title": "react proje yap",
+      "status": "job",
+      "date": "20.01.2024"
+    },
+    {
+      "id": "e4ec8c6c-03cd-4a4a-89a6-451c7473222e",
+      "title": "JS",
+      "status": "important",
+      "date": "20.01.2024"
+    },
+    {
+      "id": "b8b2740a-fc7b-4499-8310-481c96d4668e",
+      "title": "kitap",
+      "status": "daily",
+      "date": "26.01.2024"
+    },
+    {
+      "id": "8478bfeb-1ea5-4ec9-9fef-9c9a49aff7f5",
+      "title": "Axios öğren",
+      "status": "job",
+      "date": "26.01.2024"
+    },
+    {
+      "id": "23daa339-6a70-4d49-b2f7-d59bc8df79cb",
+      "title": "UUID araştır",
+      "status": "important",
+      "date": "26.01.2024"
+    },
+    {
+      "id": "7cfb30e3-f51c-4aab-9fff-bcb44a778b2f",
+      "title": "react hooks",
+      "status": "job",
+      "date": "26.01.2024"
+    },
+    {
+      "id": "1789aaa7-7fd6-4fd9-98f1-64a6ee22ded2",
+      "title": "react router",
+      "status": "job",
+      "date": "26.01.2024"
+    },
+    {
+      "id": "b8577054-8c7a-48bd-977d-f2fb22d3978e",
+      "title": "redux",
+      "status": "job",
+      "date": "26.01.2024"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Ali"
+    },
+    {
+      "id": "3",
+      "name": "Ayşe"
+    }
+  ],
+  "activity": [
+    {
+      "id": "105",
+      "info": "hesap ban yediii3",
+      "date": "10/10/2026",
+      "price": 104
+    },
+    {
+      "id": "103",
+      "info": "hesap ban yediii1",
+      "date": "10/10/2024",
+      "price": 200
+    },
+    {
+      "id": "104",
+      "info": "hesap ban yediii2",
+      "date": "10/11/2025",
+      "price": 50
+    }
+  ]
+}
